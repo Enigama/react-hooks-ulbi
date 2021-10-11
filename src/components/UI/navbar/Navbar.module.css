@@ -1,0 +1,12 @@
+.Navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  min-height: 50px;
+  background-color: lightcyan;
+}
+
+.NavbarItem {
+  margin: 0 5px;
+  text-decoration: none;
+}
